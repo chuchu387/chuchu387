@@ -6,7 +6,6 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-```python
 class FullStackDeveloper:
     def __init__(self):
         self.name = "chuchu387"
@@ -76,4 +75,3 @@ me.say_hi()
   <img src="https://komarev.com/ghpvc/?username=chuchu387&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-```
