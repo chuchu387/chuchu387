@@ -38,18 +38,19 @@ mindmap
   root((Chuchu387))
     Developer
       Full Stack
-      Cloud Native
-      DevOps Enthusiast
+      Cloud 
+      DevOps 
     Interests
       AI/ML
-      Blockchain
+      DevOps
+      LLM
       System Design
     Learning
-      Rust
-      WebAssembly
+      DevOps
+      Java
+      Spring Boot
       Microservices
     Hobbies
-      Open Source
       Tech Writing
       Code Art
 ```
@@ -64,16 +65,17 @@ mindmap
 ```json
 {
   "languages": {
-    "JavaScript": "████████████████████ 100%",
-    "Python": "██████████████████░░ 90%",
-    "Java": "████████████████░░░░ 80%",
-    "Go": "████████████░░░░░░░░ 60%"
+    "Python": "██████████████████░░ 60%",
+    "Java": "████████████████████░░░ 60%",
+    "Shell/Bash": "█████████░░░░░░░░ 30%"
   },
   "frameworks": {
-    "React": "████████████████████ 100%",
-    "Node.js": "██████████████████░░ 90%",
-    "Django": "████████████████░░░░ 80%",
-    "Docker": "██████████████░░░░░░ 70%"
+    "Git": "████████████████████ 100%",
+    "Linux": "██████████████████░░ 90%",
+    "Django": "████████████░░░░ 50%",
+    "Docker": "██████████████░░░░░░ 60%"
+    "Ansible": "██████████░░░░░░ 40%"
+    "Teraform": "██████░░░░░░ 30%"
   }
 }
 ```
@@ -85,47 +87,6 @@ mindmap
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=F8D866" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuchu387&theme=radical&background=0D1117&hide_border=true" height="165">
-</div>
-
-<!-- Interactive Project Showcase -->
-<h2 align="center">🌟 Epic Projects</h2>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project Nova 🚀</h3>
-<div align="center">
-<a href="https://github.com/chuchu387/project-link" target="_blank"><img src="https://via.placeholder.com/500x300?text=Project+Nova" width="400" alt="Project Nova"/></a>
-<p>
-<a href="https://github.com/chuchu387/project-link" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://project-link.com" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE-green?style=for-the-badge&color=2b9348">
-</a>
-</p>
-<p><strong>NextJS, TypeScript, ThreeJS</strong> - An innovative virtual reality experience</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-<h3 align="center">Project Quantum ⚡</h3>
-<div align="center">
-<a href="https://github.com/chuchu387/project-link" target="_blank"><img src="https://via.placeholder.com/500x300?text=Project+Quantum" width="400" alt="Project Quantum"/></a>
-<p>
-<a href="https://github.com/chuchu387/project-link" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://project-link.com" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE-green?style=for-the-badge&color=2b9348">
-</a>
-</p>
-<p><strong>Rust, WebAssembly, React</strong> - High-performance web computing platform</p>
-</div>
-</td>
-</tr>
-</table>
 </div>
 
 <!-- Contribution Graph with Custom Theme -->
@@ -142,7 +103,7 @@ mindmap
 <h2 align="center">🤝 Let's Connect & Create</h2>
 <div align="center">
   
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bhambhambholere)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chuchu387)
   [![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-profile)
