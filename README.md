@@ -1,5 +1,4 @@
-![Welcome to My GitHub Universe](https://imgur.com/gallery/cores-map-ntaenXW#/t/europa_universalis_4)
-
+![Welcome to My GitHub Universe]
 # 🌌 Hello, I'm **chuchu387**!  
 > *"The only limit to our creativity is the code we haven’t written yet."*
 
