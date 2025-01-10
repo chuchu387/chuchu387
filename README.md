@@ -1,4 +1,4 @@
-![Welcome to My GitHub Universe](https://imgur.com/link-to-a-cool-banner)
+![Welcome to My GitHub Universe](https://i.imgur.com/link-to-a-cool-banner.jpg)
 
 # 🌌 Hello, I'm **chuchu387**!  
 > *"The only limit to our creativity is the code we haven’t written yet."*
