@@ -1,4 +1,4 @@
-![Welcome to My GitHub Universe]
+Welcome to My GitHub Universe
 # 🌌 Hello, I'm **chuchu387**!  
 > *"The only limit to our creativity is the code we haven’t written yet."*
 
