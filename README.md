@@ -1,61 +1,61 @@
+# Hi there, I'm chuchu387! 👋
 
-# 🌌 Hello, I'm **chuchu387**!  
-> *"The only limit to our creativity is the code we haven’t written yet."*
+![Profile Views](https://komarev.com/ghpvc/?username=chuchu387&style=flat-square&color=blue)
 
----
+## About Me
 
-## 🧙‍♂️ About Me
-
-- 💻 **Code Whisperer:** From backend wizardry to DevOps magic, I’m on a journey to build scalable, resilient systems.
-- 🌱 **Forever Learner:** Currently mastering the art of DevOps while refining my Java Spring Boot expertise.
-- 🌟 **Philosophy:** Every line of code should solve a problem, tell a story, or inspire an idea.
-- 🌏 **Hailing From:** Nepal 🇳🇵—the land of Everest and limitless possibilities.
+I'm a passionate DevOps enthusiast focused on learning and implementing DevOps technologies with a strong emphasis on AWS cloud solutions. I enjoy automating processes, improving CI/CD pipelines, and exploring new tools to enhance software development and deployment.
 
 ---
 
-## 🛠 My Tech Arsenal
+## 🚀 Skills & Technologies
 
-### **Languages & Frameworks**
-- **Programming Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-- **Frameworks:** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+### DevOps Tools & Technologies
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD
+- **Configuration Management**: Ansible, Chef, Puppet
+- **Containerization**: Docker, Kubernetes, Helm
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Infrastructure as Code**: Terraform, CloudFormation
 
-### **Databases**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+### Cloud Platforms
+- **AWS Services**: EC2, S3, RDS, Lambda, CloudWatch, ECS, EKS, IAM, VPC
+- **Other Clouds**: Azure, Google Cloud Platform
 
-### **DevOps Mastery (In Progress)**
-- **Platforms & Tools:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)  
-- **Containerization & Orchestration:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-- **Infrastructure as Code:** ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
-- **Monitoring:** ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-- **Kanban & Collaboration:** ![Kanban](https://img.shields.io/badge/-Kanban-0079BF?style=flat&logo=trello&logoColor=white)
-
----
-
-## 🎉 Fun Facts
-
-- 🎙 **Aspiring Stand-Up:** Crafting jokes about Nepali politics one punchline at a time.
-- 🎨 **Creative Soul:** Always finding inspiration in the chaos of debugging.
-- 🐉 **Spirit Animal:** A dragon—fierce, adaptable, and loves hoarding knowledge.
+### Scripting & Programming
+- **Languages**: Python, Bash, Groovy, YAML
 
 ---
 
-## 🤝 Let’s Connect
-
-- **GitHub:** [chuchu387](https://github.com/chuchu387)
-- **LinkedIn:** [Your LinkedIn Name](https://linkedin.com/in/your-profile)
-- **Twitter:** [@chuchu_tweets](https://twitter.com/chuchu_tweets)
-
----
-
-### 📊 GitHub Stats
-
-![chuchu387's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight)
+## 🌱 Currently Learning
+- Advanced Kubernetes management with EKS
+- AWS Lambda for serverless applications
+- Security best practices in AWS
 
 ---
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=chuchu387&style=flat-square&color=brightgreen)
+## 📊 GitHub Stats
+
+![chuchu387's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=radical)
 
 ---
 
-> 💡 **Pro Tip:** Great software isn’t built in a day, but it always starts with a single commit. Keep building!
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chuchu387&theme=radical&no-frame=true&margin-w=10)
+
+---
+
+## ✍️ Blog & Writing
+- **Medium**: [Your Medium Profile](https://medium.com/@yourprofile)
+- **Dev.to**: [Your Dev.to Profile](https://dev.to/yourprofile)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sapkota-6782442a1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitsmeshubhamofficial69@gmail.com)
+
+---
+
+Thank you for visiting my profile!
