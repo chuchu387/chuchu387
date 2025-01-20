@@ -75,8 +75,8 @@ I'm a passionate DevOps enthusiast focused on learning and implementing DevOps t
 ---
 
 ## ✍️ Blog & Writing
-- **Medium**: [Your Medium Profile](https://medium.com/@yourprofile)
-- **Dev.to**: [Your Dev.to Profile](https://dev.to/yourprofile)
+- **Medium**: [Your Medium Profile](https://medium.com/@heyitsmeshubhamofficial69)
+- **Dev.to**: [Your Dev.to Profile](https://dev.to/chuchu387)
 
 ---
 
