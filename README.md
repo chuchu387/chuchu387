@@ -58,9 +58,7 @@ I'm a passionate DevOps enthusiast focused on learning and implementing DevOps t
 - Advanced Kubernetes management with EKS
 - AWS Lambda for serverless applications
 - Security best practices in AWS
-
 ---
-
 ## 📊 GitHub Stats
 
 ![chuchu387's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=radical)
@@ -77,9 +75,7 @@ I'm a passionate DevOps enthusiast focused on learning and implementing DevOps t
 - **Medium**: [Your Medium Profile](https://medium.com/@heyitsmeshubhamofficial69)
 - **Dev.to**: [Your Dev.to Profile](https://dev.to/chuchu387)
 
-
 ---
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sapkota-6782442a1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitsmeshubhamofficial69@gmail.com)
