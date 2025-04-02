@@ -47,17 +47,10 @@
 
 ---
 
-## 📖 Education  
-
-🎓 **Bachelor's in Information Technology (2021-2025)** – Tribhuvan University  
-
----
-
 ## 📬 Let's Connect!  
 
 📧 **Email:** sapkotashubham10@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-💻 **GitHub:** [github.com/shubham-sapkota](#)  
+💼 **LinkedIn:** [linkedin.com/in/shubham-sapkota-6782442a1](#)
 
 🚀 *Excited to learn and grow as a QA Engineer!*  
 
