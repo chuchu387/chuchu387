@@ -1,17 +1,17 @@
 <h1 align="center">  
-🚀 Shubham Sapkota | Junior QA Engineer  
+🚀 Shubham Sapkota | DevOps and QA Enthusiast  
 </h1>  
 
 <p align="center">  
-🔹 Passionate about Software Quality Assurance | Learning Automation & API Testing 🔹  
+🔹 Passionate about DevOps and Software Quality Assurance | Exploring Automation, API Testing, and CI/CD 🔹  
 </p>  
 
 ---
 
 ## 🌟 About Me  
-👋 Hi! I'm **Shubham Sapkota**, a **Junior QA Engineer** with hands-on experience in **software testing** through my internship at **NTC**. I am passionate about ensuring **high-quality software** by leveraging **manual and automation testing** techniques.  
+👋 Hi! I'm **Shubham Sapkota**, a **DevOps and QA Enthusiast** with hands-on experience in **software testing** and a growing interest in **DevOps practices**. I am passionate about ensuring **high-quality software** and building efficient **development pipelines**.  
 
-💡 Currently, I'm exploring **test automation, API testing, and Agile methodologies** to enhance my skills.  
+💡 Currently, I'm exploring **test automation, API testing, CI/CD pipelines, and cloud infrastructure** to enhance my skills.  
 
 ---
 
@@ -22,37 +22,43 @@
 - 🔹 **Automation Testing** (Selenium, Cypress)  
 - 🔹 **API Testing** (Postman, REST Assured)  
 
+### ✅ **DevOps Practices**  
+- 🌐 **Continuous Integration & Deployment** (GitHub Actions, Jenkins)  
+- 📦 **Containerization** (Docker)  
+- ☁️ **Cloud Platforms** (AWS, Azure)  
+
 ### ✅ **Programming & Databases**  
-- 💻 **Languages:** Python, Java  
+- 💻 **Languages:** Python, Java, Bash  
 - 🗄 **Databases:** Microsoft SQL Server, MySQL  
 
-### ✅ **Collaboration & Bug Tracking**  
+### ✅ **Collaboration & Project Management**  
 - 🛠 **Bug Tracking & Project Management:** JIRA  
 - 🔄 **Version Control:** Git & GitHub  
 - ⚡ **Development Methodologies:** Agile & Scrum  
 
 ---
 
-## 📂 My QA Learning Journey  
+## 📂 My Learning Journey  
 
-📌 Since I’m still building my **QA portfolio**, here’s what I’m currently working on:  
-✔ **Test Automation Scripts** using Selenium & Cypress  
-✔ **API Test Collections** in Postman  
-✔ **Bug Reports & Test Case Templates**  
+📌 I’m continuously building my **DevOps and QA portfolio**. Here’s what I’m currently working on:  
+✔ Setting up CI/CD pipelines using GitHub Actions and Jenkins  
+✔ Writing automation scripts for testing and deployment  
+✔ Containerizing applications using Docker  
+✔ Cloud infrastructure configurations on AWS  
 
 🎯 **Upcoming Projects:**  
-🔹 Automating UI tests for a sample login page  
-🔹 Writing SQL queries for database testing  
-🔹 Documenting real-world bug reports  
+🔹 Automating end-to-end deployment pipelines  
+🔹 Creating Kubernetes clusters for container orchestration  
+🔹 Documenting real-world testing scenarios  
 
 ---
 
 ## 📬 Let's Connect!  
 
 📧 **Email:** sapkotashubham10@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/shubham-sapkota-6782442a1](#)
+💼 **LinkedIn:** [linkedin.com/in/shubham-sapkota-6782442a1](#)  
 
-🚀 *Excited to learn and grow as a QA Engineer!*  
+🚀 *Excited to grow as a DevOps and QA Enthusiast!*  
 
 ---
 
