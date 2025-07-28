@@ -1,66 +1,93 @@
-<h1 align="center">  
-🚀 Shubham Sapkota | DevOps and QA Enthusiast  
-</h1>  
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="DevOps Banner" width="80%" style="border-radius: 10px;"/>
+</div>
 
-<p align="center">  
-🔹 Passionate about DevOps and Software Quality Assurance | Exploring Automation, API Testing, and CI/CD 🔹  
-</p>  
+<h1 align="center">
+  🚀 Shubham Sapkota | DevOps Learner & Cloud Explorer 🌥️
+</h1>
 
----
-
-## 🌟 About Me  
-👋 Hi! I'm **Shubham Sapkota**, a **DevOps and QA Enthusiast** with hands-on experience in **software testing** and a growing interest in **DevOps practices**. I am passionate about ensuring **high-quality software** and building efficient **development pipelines**.  
-
-💡 Currently, I'm exploring **test automation, API testing, CI/CD pipelines, and cloud infrastructure** to enhance my skills.  
-
----
-
-## 🛠 Skills & Tools  
-
-### ✅ **Testing & Automation**  
-- 🔹 **Manual Testing** (Test Case Writing, Functional Testing, Regression Testing)  
-- 🔹 **Automation Testing** (Selenium, Cypress)  
-- 🔹 **API Testing** (Postman, REST Assured)  
-
-### ✅ **DevOps Practices**  
-- 🌐 **Continuous Integration & Deployment** (GitHub Actions, Jenkins)  
-- 📦 **Containerization** (Docker)  
-- ☁️ **Cloud Platforms** (AWS, Azure)  
-
-### ✅ **Programming & Databases**  
-- 💻 **Languages:** Python, Java, Bash  
-- 🗄 **Databases:** Microsoft SQL Server, MySQL  
-
-### ✅ **Collaboration & Project Management**  
-- 🛠 **Bug Tracking & Project Management:** JIRA  
-- 🔄 **Version Control:** Git & GitHub  
-- ⚡ **Development Methodologies:** Agile & Scrum  
+<p align="center">
+  <a href="mailto:sapkotashubham10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sapkotashubham10@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/shubham-sapkota-6782442a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Sapkota-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Focus-DevOps|Cloud|Automation-23B684?style=flat-square" alt="Focus" />
+</p>
 
 ---
 
-## 📂 My Learning Journey  
+## 👋 About Me
 
-📌 I’m continuously building my **DevOps and QA portfolio**. Here’s what I’m currently working on:  
-✔ Setting up CI/CD pipelines using GitHub Actions and Jenkins  
-✔ Writing automation scripts for testing and deployment  
-✔ Containerizing applications using Docker  
-✔ Cloud infrastructure configurations on AWS  
-
-🎯 **Upcoming Projects:**  
-🔹 Automating end-to-end deployment pipelines  
-🔹 Creating Kubernetes clusters for container orchestration  
-🔹 Documenting real-world testing scenarios  
+> **Hi, I’m Shubham Sapkota!**  
+> I’m passionate about <span style="color:#23B684"><b>DevOps, Cloud, and Automation</b></span>.  
+> My journey is all about learning, building, and sharing everything DevOps — from CI/CD pipelines to cloud deployments and infrastructure as code.
 
 ---
 
-## 📬 Let's Connect!  
+## 🛠️ My DevOps Toolbox
 
-📧 **Email:** sapkotashubham10@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/shubham-sapkota-6782442a1](#)  
+<div align="center">
 
-🚀 *Excited to grow as a DevOps and QA Enthusiast!*  
+| 🚧 CI/CD      | 🐳 Containers | ☁️ Cloud        | ⚙️ IaC       | 💻 Languages        | 🔧 Tools         |
+|:-------------:|:------------:|:---------------:|:------------:|:-------------------:|:----------------:|
+| GitHub Actions<br>Jenkins    | Docker         | AWS<br>Azure | Terraform (Basics)  | Python<br>Bash   | Git & GitHub     |
+
+</div>
 
 ---
 
-### ⭐ **Show Some Support!**  
-If you like my work, consider giving my repositories a 🌟!  
+## 🌱 Currently Learning
+
+- Building & automating CI/CD pipelines
+- Dockerizing applications
+- Deploying to AWS (EC2, S3, Lambda)
+- Starting with Infrastructure as Code (Terraform)
+- Mastering version control workflows
+
+---
+
+## 📚 DevOps Resources
+
+> **Kickstart your journey with these:**
+
+- [DevOps Roadmap – FreeCodeCamp](https://www.freecodecamp.org/news/devops-roadmap/)
+- [Docker Getting Started](https://docs.docker.com/get-started/)
+- [AWS Free Tier Hands-on Labs](https://aws.amazon.com/free/)
+- [GitHub Actions Docs](https://docs.github.com/en/actions)
+- [Codecademy Learn CI/CD](https://www.codecademy.com/learn/learn-cicd)
+
+---
+
+## 🧑‍💻 Sample Projects
+
+- **CI/CD for Python Apps:** Automated testing, build, and deploy
+- **Dockerized Web App:** From source to container
+- **Cloud Deployments:** Step-by-step AWS walkthroughs
+
+> 📁 Check [my repositories](https://github.com/chuchu387?tab=repositories) for code and guides!
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Sapkota-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham-sapkota-6782442a1)
+[![Email](https://img.shields.io/badge/Email-sapkotashubham10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapkotashubham10@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,python,bash,terraform" alt="Skill Icons" />
+</div>
+
+---
+
+<div align="center">
+  <strong>🌟 If you’re a fellow DevOps learner, let’s connect, share, and grow together! Star ⭐️ this repo if you find it helpful. 🌟</strong>
+</div>
