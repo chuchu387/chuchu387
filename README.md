@@ -1,36 +1,88 @@
-# Project Title
+# 👋 Hi, I'm Shubham Sapkota
 
-A brief description of your project and what it does.
+🚀 QA Engineer | DevOps Enthusiast | System Builder  
+💼 Working at BitsPanda Technology  
+📍 Kathmandu, Nepal  
 
-## Getting Started
+---
 
-Instructions on how to get a copy of the project up and running on your local machine for development and testing purposes.
+## 🚀 About Me
 
-### Prerequisites
+- 🔍 Currently working as a **QA Engineer**
+- ⚙️ Passionate about **DevOps, Automation & Scalable Systems**
+- 🧠 Learning **Docker, CI/CD, Linux, Kubernetes**
+- 💡 Building **real-world projects** with business potential
+- 🚀 Transitioning from QA → DevOps Engineer
 
-What you need to install the software and how to install them.
+---
 
-### Installation
+## 🛠️ Tech Stack
 
-A step by step series of examples that tell you how to get a development environment running.
+### 💻 Languages
+`JavaScript` `Python` `SQL`
 
-1. Clone the repository.
-   ```
-   git clone https://github.com/chuchu387/chuchu387.git
-   ```
-2. Install the dependencies.
-   ```
-   npm install
-   ```
+### 🎨 Frontend
+`React` `Tailwind CSS`
 
-## Usage
+### ⚙️ Backend
+`Node.js` `Express` `Flask`
 
-Provide instructions and examples for using the program.
+### 🚀 DevOps & Tools
+`Docker` `GitHub Actions` `Linux` `Nginx`  
+`Postman` `Swagger`
 
-## Contributing
+### 🗄️ Database
+`MongoDB` `PostgreSQL`
 
-Guidelines for contributing to the project.
+---
 
-## License
+## 🔥 Projects
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 🚕 AutoLink (Ride Sharing App)
+- Route-based ride sharing for auto-rickshaws  
+- Dynamic pricing negotiation  
+- Multi-user system (Customer / Driver / Admin)
+
+### 🚑 Emergency Vehicle Tracking System
+- Real-time vehicle tracking  
+- Nearest driver detection  
+- Built with Flask + Leaflet
+
+### 📊 Smart Trading Analysis Platform (WIP)
+- Buy/Sell recommendation system  
+- Focused on Nepal stock market  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-sapkota-6782442a1/  
+- 🐙 GitHub: https://github.com/chuchu387  
+- 📧 Email: sapkotashubham10@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+> Started in QA, evolving into DevOps 🚀
+
+---
+
+## 🎯 Goal
+
+Build systems that are:
+- ⚙️ Scalable  
+- 🔐 Reliable  
+- 🌍 Impactful  
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
