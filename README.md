@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Sapkota
 
-🚀 QA Engineer | DevOps Enthusiast | System Builder  
+🚀 QA Engineer and DevOps Enthusiast | System Builder  
 💼 Working at BitsPanda Technology  
 📍 Kathmandu, Nepal  
 
