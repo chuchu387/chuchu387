@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔍 Currently working as a **QA Engineer**
+- 🔍 Currently working as a **QA Engineer / DevOps Engineer**
 - ⚙️ Passionate about **DevOps, Automation & Scalable Systems**
 - 🧠 Learning **Docker, CI/CD, Linux, Kubernetes**
 - 💡 Building **real-world projects** with business potential
