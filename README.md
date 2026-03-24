@@ -43,9 +43,9 @@
 - Dynamic pricing negotiation  
 - Multi-user system (Customer / Driver / Admin)
 
-### 🚑 Emergency Vehicle Tracking System
-- Real-time vehicle tracking  
-- Nearest driver detection  
+### 🚑 Byaparihub
+- B2B ecommerce platform  
+- Currently in commercial use with 500 live active users  
 - Built with Flask + Leaflet
 
 ### 📊 Smart Trading Analysis Platform (WIP)
