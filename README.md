@@ -1,4 +1,4 @@
-# 👋 Hell, I'm Shubham Sapkota
+# 👋 Hello, I'm Shubham Sapkota
 
 🚀 QA Engineer and DevOps Enthusiast | System Builder  
 💼 Working at BitsPanda Technology  
