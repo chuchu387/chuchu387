@@ -85,4 +85,4 @@ Build systems that are:
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a star to my repositorie!
