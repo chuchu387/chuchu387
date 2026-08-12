@@ -1,98 +1,130 @@
-# <div align="center">Shubham Sapkota</div>
-
+```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1F6FEB,100:00C7B7&text=Shubham%20Sapkota&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=QA%20Engineer%20%E2%86%92%20DevOps%20Engineer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Build.+Test.+Automate.+Deploy.;QA+Engineer+%7C+DevOps+Enthusiast;Working+with+Docker%2C+Linux%2C+AWS+%26+CI%2FCD;Learning+Kubernetes+and+Cloud+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Build.+Test.+Automate.+Deploy.;QA+Engineer+%7C+DevOps+Enthusiast;Docker+%7C+Linux+%7C+AWS+%7C+CI%2FCD;Learning+Kubernetes+and+Cloud+Engineering" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/chuchu387">
 <img src="https://img.shields.io/github/followers/chuchu387?style=for-the-badge&logo=github&label=Followers"/>
 </a>
+
 <a href="https://www.linkedin.com/in/shubham-sapkota-6782442a1/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:sapkotashubham10@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=chuchu387&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
----
+<br/>
 
-## About Me
+## 👨‍💻 About Me
 
-* QA Engineer and DevOps-focused builder based in **Kathmandu, Nepal**
-* Working at **BitsPanda Technology**
-* Interested in **Docker, Linux, AWS, CI/CD, Nginx, automation**
-* Transitioning from **QA → DevOps Engineer**
-* Building practical systems with **real business impact**
+- 🔍 QA Engineer + DevOps-focused builder
+- 💼 BitsPanda Technology
+- 📍 Kathmandu, Nepal
+- 🐳 Docker • Linux • AWS • Nginx • CI/CD
+- ☸️ Learning Kubernetes & Cloud Engineering
+- 🚀 Transitioning from QA → DevOps
 
----
+<br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,githubactions,git,python,javascript,nodejs,express,flask,react,tailwind,mongodb,postgres,mysql,grafana,postman,vscode&perline=10" />
+
 </div>
 
----
+<br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ByapariHub
+<h3 align="center">🛒 ByapariHub</h3>
 
-**B2B Wholesale Marketplace**
+<p align="center">
+<b>B2B Wholesale Marketplace</b>
+</p>
 
-* AWS EC2 deployment
-* Nginx reverse proxy
-* QA + workflow validation
-* Business-focused product system
+<p align="center">
 
-[![Live Site](https://img.shields.io/badge/Live-byaparihub.com-00C853?style=for-the-badge)](https://www.byaparihub.com/)
+☁️ AWS EC2 Deployment<br/>
+🌐 Nginx Reverse Proxy<br/>
+🧪 QA & Workflow Validation<br/>
+📦 B2B Commerce Platform
+
+</p>
+
+<p align="center">
+<a href="https://www.byaparihub.com/">
+<img src="https://img.shields.io/badge/LIVE-byaparihub.com-00C853?style=for-the-badge"/>
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### AutoLink
+<h3 align="center">🚕 AutoLink</h3>
 
-**Smart Ride-Sharing Platform**
+<p align="center">
+<b>Smart Ride-Sharing Platform</b>
+</p>
 
-* Route-based ride matching
-* Dynamic pricing
-* Multi-role workflow
-* Product under development
+<p align="center">
 
-![Status](https://img.shields.io/badge/Status-Building-FF9800?style=for-the-badge)
+📍 Route Matching<br/>
+💰 Dynamic Pricing<br/>
+👥 Multi-Role Workflow<br/>
+🚀 Product Development
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-BUILDING-FF9800?style=for-the-badge"/>
+</p>
 
 </td>
+
 </tr>
 </table>
 
-### Smart Trading Analysis
+<br/>
 
-**AI-assisted Nepal stock market analysis platform**
+<div align="center">
 
-* Market insights
-* Buy/Sell signals
-* Analytics-driven approach
+### 📈 Smart Trading Analysis
 
----
+**AI-Assisted Nepal Stock Market Analysis**
+
+📊 Market Insights &nbsp; • &nbsp; 🤖 Buy/Sell Signals &nbsp; • &nbsp; 🇳🇵 NEPSE
+
+<img src="https://img.shields.io/badge/STATUS-R%26D-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -110,64 +142,76 @@
 
 </div>
 
+<br/>
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chuchu387&theme=tokyonight&hide_border=true" />
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/chuchu387/chuchu387/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/chuchu387/chuchu387/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="GitHub contribution snake"
+src="https://raw.githubusercontent.com/chuchu387/chuchu387/output/github-contribution-grid-snake.svg"
+width="100%"
+/>
+
+</picture>
 
 </div>
 
-## 📈 Contribution Graph
+<br/>
+
+## 🎯 Current Focus
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chuchu387&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </div>
 
-## Contribution Graph
+<br/>
 
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chuchu387&bg_color=0D1117&color=58A6FF&line=00C7B7&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/chuchu387/chuchu387/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-
-## Current Focus
-
-* Docker & deployment workflows
-* AWS infrastructure
-* CI/CD automation
-* Linux system operations
-* Kubernetes learning path
-
----
-
-## Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham_Sapkota-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shubham-sapkota-6782442a1/)
-[![GitHub](https://img.shields.io/badge/GitHub-chuchu387-181717?style=for-the-badge\&logo=github)](https://github.com/chuchu387)
-[![Email](https://img.shields.io/badge/Email-sapkotashubham10%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sapkotashubham10@gmail.com)
+<a href="https://www.linkedin.com/in/shubham-sapkota-6782442a1/">
+<img src="https://img.shields.io/badge/LinkedIn-Shubham_Sapkota-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://github.com/chuchu387">
+<img src="https://img.shields.io/badge/GitHub-chuchu387-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="mailto:sapkotashubham10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
-### Keep shipping. 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Build+%E2%86%92+Test+%E2%86%92+Automate+%E2%86%92+Deploy;Keep+Learning.+Keep+Building.+Keep+Shipping.+%F0%9F%9A%80"/>
+
+<br/>
+
+### ⚡ Keep Shipping 🚀
 
 **Build → Test → Automate → Deploy → Monitor**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00C7B7,50:1F6FEB,100:0D1117"/>
 
 </div>
+```
