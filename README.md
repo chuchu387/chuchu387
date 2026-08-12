@@ -86,18 +86,30 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://streak-stats.demolab.com?user=chuchu387&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
 
-<div align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chuchu387&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chuchu387&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ## Contribution Graph
 
