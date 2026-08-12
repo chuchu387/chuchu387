@@ -1,265 +1,148 @@
+# <div align="center">Shubham Sapkota</div>
+
 <div align="center">
 
-<!-- HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1F6FEB,100:00C7B7&text=Shubham%20Sapkota&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=QA%20Engineer%20%E2%86%92%20DevOps%20Engineer&descAlignY=58&descSize=18"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0969DA,100:00C7B7&text=Shubham%20Sapkota&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=QA%20Engineer%20%E2%86%92%20DevOps%20Engineer&descAlignY=55&descSize=20&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=%24+docker+compose+up+-d;%24+deploying+to+AWS...;%24+running+CI%2FCD+pipeline...;%24+testing+production...;%E2%9C%94+Build.+Test.+Automate.+Deploy." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Build.+Test.+Automate.+Deploy.;QA+Engineer+%7C+DevOps+Enthusiast;Working+with+Docker%2C+Linux%2C+AWS+%26+CI%2FCD;Learning+Kubernetes+and+Cloud+Engineering" />
 
 <br/>
 
-<a href="https://github.com/chuchu387"> <img src="https://img.shields.io/github/followers/chuchu387?label=Followers&style=for-the-badge&logo=github"/> </a>
-
-<img src="https://komarev.com/ghpvc/?username=chuchu387&label=PROFILE+VIEWS&style=for-the-badge"/>
-
-<a href="https://www.linkedin.com/in/shubham-sapkota-6782442a1/"> <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="mailto:sapkotashubham10@gmail.com"> <img src="https://img.shields.io/badge/Gmail-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://github.com/chuchu387">
+<img src="https://img.shields.io/github/followers/chuchu387?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+<a href="https://www.linkedin.com/in/shubham-sapkota-6782442a1/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sapkotashubham10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=chuchu387&style=for-the-badge&label=Profile+Views"/>
 
 </div>
+
+---
+
+## About Me
+
+* QA Engineer and DevOps-focused builder based in **Kathmandu, Nepal**
+* Working at **BitsPanda Technology**
+* Interested in **Docker, Linux, AWS, CI/CD, Nginx, automation**
+* Transitioning from **QA → DevOps Engineer**
+* Building practical systems with **real business impact**
+
+---
+
+## Tech Stack
 
 <div align="center">
-
-⚡ whoami
-
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,githubactions,git,python,javascript,nodejs,express,flask,react,tailwind,mongodb,postgres,mysql,grafana,postman,vscode&perline=10" />
 </div>
 
-shubham@devops:~$ whoami
+---
 
-Role        → QA Engineer + DevOps Engineer
-Company     → BitsPanda Technology
-Location    → Kathmandu, Nepal 🇳🇵
-Focus       → Cloud • CI/CD • Docker • Automation
-Building    → ByapariHub • AutoLink • SaaS Products
-Learning    → Kubernetes • Terraform • AWS
-Mission     → Automate everything possible 🚀
+## Featured Projects
 
-<div align="center">
-
-🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,githubactions,git,bash,python,js,nodejs,express,flask,react,tailwind,mongodb,postgres,mysql,grafana,postman,vscode&perline=10"/>
-
-</div>
-
-<div align="center">
-
-☁️ DevOps Arsenal
-
-<img src="https://img.shields.io/badge/Linux-Expertise-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_DevOps-Pipelines-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-Monitoring-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-</div>
-
-🚀 Featured Builds
-
-<table> <tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🛒 ByapariHub</h3>
-
-<div align="center">
-
-<a href="https://www.byaparihub.com/"> <img src="https://img.shields.io/badge/LIVE-byaparihub.com-00C853?style=for-the-badge"/> </a>
-
-<br/><br/>
-
-<b>B2B Wholesale Marketplace</b>
-
-<br/><br/>
-
-AWS EC2 Nginx Docker
-QA CI/CD Automation
-
-<br/><br/>
-
-☁️ Cloud Deployment
-🔐 KYC Workflows
-📦 B2B Commerce
-⚙️ Production Operations
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚕 AutoLink</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-FF9800?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>Smart Ride-Sharing Platform</b>
-
-<br/><br/>
-
-React Flask Maps
-API Real-Time
-
-<br/><br/>
-
-📍 Route Matching
-🚕 Driver Network
-💰 Dynamic Pricing
-👥 Multi-Role System
-
-</div>
-
-</td>
-
-</tr>
-
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td colspan="2" valign="top">
+### ByapariHub
 
-<h3 align="center">📈 Smart Trading Analysis</h3>
+**B2B Wholesale Marketplace**
 
-<div align="center">
+* AWS EC2 deployment
+* Nginx reverse proxy
+* QA + workflow validation
+* Business-focused product system
 
-<img src="https://img.shields.io/badge/STATUS-R%26D-blueviolet?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>AI-Assisted Nepal Stock Market Analysis</b>
-
-<br/>
-
-Python • Analytics • Automation • Decision Systems
-
-<br/>
-
-📊 Market Analysis   •   🤖 Signals   •   🇳🇵 NEPSE
-
-</div>
+[![Live Site](https://img.shields.io/badge/Live-byaparihub.com-00C853?style=for-the-badge)](https://www.byaparihub.com/)
 
 </td>
+<td width="50%" valign="top">
 
-</tr> </table>
+### AutoLink
+
+**Smart Ride-Sharing Platform**
+
+* Route-based ride matching
+* Dynamic pricing
+* Multi-role workflow
+* Product under development
+
+![Status](https://img.shields.io/badge/Status-Building-FF9800?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+### Smart Trading Analysis
+
+**AI-assisted Nepal stock market analysis platform**
+
+* Market insights
+* Buy/Sell signals
+* Analytics-driven approach
+
+---
+
+## GitHub Stats
 
 <div align="center">
-
-📊 GitHub Control Center
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=chuchu387&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://streak-stats.demolab.com?user=chuchu387&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-
-📈 Contribution Matrix
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=chuchu387&bg_color=0D1117&color=58A6FF&line=00C7B7&point=FFFFFF&area=true&hide_border=true"/>
-
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chuchu387&bg_color=0D1117&color=58A6FF&line=00C7B7&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/chuchu387/chuchu387/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
+## Current Focus
+
+* Docker & deployment workflows
+* AWS infrastructure
+* CI/CD automation
+* Linux system operations
+* Kubernetes learning path
+
+---
+
+## Connect
 
 <div align="center">
 
-🐍 My Contributions
-
-<img src="https://raw.githubusercontent.com/chuchu387/chuchu387/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/chuchu387/chuchu387/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham_Sapkota-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shubham-sapkota-6782442a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-chuchu387-181717?style=for-the-badge\&logo=github)](https://github.com/chuchu387)
+[![Email](https://img.shields.io/badge/Email-sapkotashubham10%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sapkotashubham10@gmail.com)
 
 </div>
 
-<div align="center">
-
-🏆 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=chuchu387&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
+---
 
 <div align="center">
 
-🧠 Current Loading...
+### Keep shipping. 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=00C7B7&center=true&vCenter=true&width=700&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Docker;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+AWS;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Kubernetes;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Terraform;%E2%86%92+DevOps+Engineer.exe+loading..."/>
+**Build → Test → Automate → Deploy → Monitor**
 
-</div>
-
-<div align="center">
-
-🔄 Engineering Loop
-flowchart LR
-    A["💻 Build"] --> B["🧪 Test"]
-    B --> C["📦 Containerize"]
-    C --> D["⚙️ CI/CD"]
-    D --> E["☁️ Deploy"]
-    E --> F["📊 Monitor"]
-    F --> G["🔧 Improve"]
-    G --> A
-
-</div>
-
-<div align="center">
-
-🛰️ System Status
-SYSTEM	STATUS
-🧪 QA Engine	🟢 ONLINE
-🐳 Docker Engine	🟢 RUNNING
-⚙️ CI/CD	🟢 AUTOMATED
-☁️ AWS	🟢 DEPLOYED
-☸️ Kubernetes	🟡 LEARNING
-🏗️ Terraform	🟡 LOADING
-☕ Coffee	🔴 CRITICAL
-
-</div>
-
-<div align="center">
-
-💻 DevOps Terminal
-$ git status
-
-On branch devops
-
-Skills:
-  docker        █████████░
-  linux         █████████░
-  ci/cd         ████████░░
-  aws           ███████░░░
-  kubernetes    ████░░░░░░
-  terraform     ███░░░░░░░
-
-Status:
-  QA → DevOps migration in progress...
-
-$ _
-
-</div>
-
-<div align="center">
-
-🤝 Connect
-
-<a href="https://www.linkedin.com/in/shubham-sapkota-6782442a1/"> <img height="45" src="https://img.shields.io/badge/LinkedIn-Shubham_Sapkota-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="mailto:sapkotashubham10@gmail.com"> <img height="45" src="https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-<a href="https://github.com/chuchu387"> <img height="45" src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Automate+what+can+be+automated.;Monitor+what+can+fail.;Build+what+creates+impact.;Keep+shipping.+%F0%9F%9A%80"/>
-
-<br/>
-
-Build → Test → Automate → Deploy → Monitor
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C7B7,50:0969DA,100:0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00C7B7,50:1F6FEB,100:0D1117"/>
 
 </div>
