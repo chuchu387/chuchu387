@@ -100,17 +100,22 @@ AI-Assisted Nepal Stock Market Analysis
 
 <br/>
 
-📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chuchu387&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuchu387&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=chuchu387&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=chuchu387&theme=tokyonight&hide_border=true" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=chuchu387&theme=tokyo-night&hide_border=true&area=true"
+  alt="Contribution Graph"
+/>
 
 </div>
 
