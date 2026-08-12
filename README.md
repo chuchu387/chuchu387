@@ -16,7 +16,6 @@
 
 
 
-
 <img src="https://komarev.com/ghpvc/?username=chuchu387&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
@@ -245,10 +244,6 @@ I'm always interested in discussing:
 DevOps • Cloud • Automation • QA • Startups • SaaS • System Design
 
 <br/>
-
-
-
-
 
 
 
