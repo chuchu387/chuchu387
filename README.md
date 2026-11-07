@@ -19,12 +19,12 @@
 <br/>
 
 👨‍💻 About Me
-🔍 QA Engineer + DevOps-focused builder
+🔍 DevOps-focused builder
 💼 Working at BitsPanda Technology
 📍 Kathmandu, Nepal
 🐳 Docker • Linux • AWS • Nginx • CI/CD
 ☸️ Learning Kubernetes & Cloud Engineering
-🚀 Transitioning from QA → DevOps
+🚀 DevOps
 
 <br/>
 
